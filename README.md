@@ -1,5 +1,5 @@
 Olá! 👋
-Eu sou Jacqueline L Costa , sou programadora Front End ,atualmente estou trabalhando em projetos com:
+Eu sou Jacqueline L Costa , sou programadora Full Stack ,atualmente estou trabalhando em projetos com:
 <br>
 <br>
 
